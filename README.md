@@ -8,5 +8,5 @@ git add .gitignore
 git add *
 git status
 git commit -m 'init 0.0.1'
-git push -u <repo> master
+git push -u git@github.com:kaoe475/testing.git master
 ```
