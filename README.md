@@ -1,0 +1,12 @@
+# Testing GIT
+
+## Usage
+```bash
+git init
+echo "*cache*" > .gitignore
+git add .gitignore
+git add *
+git status
+git commit -m 'init 0.0.1'
+git push -u <repo> master
+```
